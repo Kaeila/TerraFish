@@ -1,0 +1,4 @@
+name: TerraFish
+version: '${project.version}'
+main: de.kaeila.terrafish.TerraFish
+api-version: '1.20'
